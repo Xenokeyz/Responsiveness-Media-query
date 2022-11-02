@@ -1,0 +1,24 @@
+{
+  "name": "responsive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xenokeyz/Responsiveness-Media-query.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xenokeyz/Responsiveness-Media-query/issues"
+  },
+  "homepage": "https://github.com/Xenokeyz/Responsiveness-Media-query#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
